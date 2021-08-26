@@ -1,1 +1,1 @@
-# Blood_Bank_Management
+# online-blood-bank-management-system-in-php
